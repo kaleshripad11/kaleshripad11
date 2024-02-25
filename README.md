@@ -1,7 +1,7 @@
 <!---
 kaleshripad11/kaleshripad11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
+---
 - 👋 Hi, I’m @kaleshripad11
 - 👀 I’m interested in Linux, Automation Testing Tools, Shell Scripting, Programming
 - 🌱 I’m currently learning Bash Shell Scripting 
@@ -20,6 +20,8 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning **Python, Perl, Locust, Apache JMeter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaleshripad11](https://github.com/kaleshripad11)
+
+- 👀 I’m interested in Linux, Automation Testing Tools, Shell Scripting, Programming
 
 - 💬 Ask me about **Linux, Unix**
 
