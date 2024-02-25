@@ -5,7 +5,6 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Shripad Kale</h1>
 <h3 align="center">Software QA Engineer II at Aera Technology</h3>
-<h3 align="center">👀 I’m interested in Linux, Automation Testing Tools, Shell Scripting, Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaleshripad11&label=Profile%20views&color=0e75b6&style=flat" alt="kaleshripad11" /> </p>
 
