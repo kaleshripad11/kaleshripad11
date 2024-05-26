@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaleshripad11" alt="kaleshripad11" /></a> </p>
 
-- 🔭 I’m currently working on [selenium-java-test-project](https://github.com/kaleshripad11/selenium-java-test-project)
+- 🔭 I’m currently working on [demo_orange_hrm_automation](https://github.com/kaleshripad11/demo_orange_hrm_automation)
 
 - 🌱 I’m currently learning **Python, Perl, Locust, Apache JMeter**
 
