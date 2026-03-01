@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaleshripad11" alt="kaleshripad11" /></a> </p>
 
-- 🔭 I’m currently working on [Playwright Learning](https://github.com/kaleshripad11/playwright_basics) & [JSON Place Holder Automation](https://github.com/kaleshripad11/json_placeholder_api_automation)
+- 🔭 I’m currently working on [Orange HRM Automation Using Playwright](https://github.com/kaleshripad11/orange_hrm_automation_with_pw) & [JSON Place Holder Automation](https://github.com/kaleshripad11/json_placeholder_api_automation)
 
 - 🌱 I’m currently learning **Python, Pytest, Playwright Perl, Locust, Apache JMeter**
 
