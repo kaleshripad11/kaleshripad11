@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 ---
 - 👋 Hi, I’m @kaleshripad11
 - 👀 I’m interested in Linux, Automation Testing Tools, Shell Scripting, Programming
-- 🌱 I’m currently learning Bash Shell Scripting 
+- 🌱 I’m currently working on REST API automation, Playwright
 -->
 
 <h1 align="center">Hi 👋, I'm Shripad Kale</h1>
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [Orange HRM Automation Using Playwright](https://github.com/kaleshripad11/orange_hrm_automation_with_pw) & [JSON Place Holder Automation](https://github.com/kaleshripad11/json_placeholder_api_automation)
 
-- 🌱 I’m currently learning **Python, Pytest, Playwright Perl, Locust, Apache JMeter**
+- 🌱 I’m currently learning **Python, Pytest, Playwright, Perl, Locust, Apache JMeter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaleshripad11](https://github.com/kaleshripad11)
 
